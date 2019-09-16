@@ -16,6 +16,10 @@
     "array",
     "object"
   ],
+  "bugs": {
+    "url": "https://github.com/arcaster42/array-hash-conversion/issues"
+  },
+  "homepage": "https://github.com/arcaster42/array-hash-conversion",
   "author": "TJ Epperson",
   "license": "ISC"
 }
