@@ -1,6 +1,6 @@
 {
   "name": "array-hash-conversion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts arrays to object keys and values",
   "main": "index.js",
   "scripts": {
