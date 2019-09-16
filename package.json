@@ -1,0 +1,21 @@
+{
+  "name": "array-hash-conversion",
+  "version": "1.0.0",
+  "description": "Converts arrays to object keys and values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arrays",
+    "objects",
+    "keys",
+    "values",
+    "convert",
+    "converter",
+    "array",
+    "object"
+  ],
+  "author": "TJ Epperson",
+  "license": "ISC"
+}
