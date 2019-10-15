@@ -9,6 +9,11 @@ function arrayToHash(keyArray, valueArray, incStart = 0) {
             }
         }
     }
+    if (typeof valueArray === 'number') {
+        for (let i = 0; i < keyArray.length; i++) {
+            obj[keyArray[i]] = valueArray + i
+        }
+    }
     if (valueArray && valueArray.length < keyArray.length) {
         let j = 0
         for (let i = 0; i < keyArray.length; i++) {
